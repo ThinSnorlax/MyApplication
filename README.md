@@ -1,6 +1,6 @@
 # MyApplication
 
-##PahoMqttActivity为测试的Activity
+PahoMqttActivity为测试的Activity
 
 ## 证书
 res/raw中需要加三个证书文件，没有raw文件夹就在res下创建，三个文件分别为AmazonRootCA1，private.pem.key, cert.pem.crt文件，在AWS console 创建IoT Core证书时下载写进入后，文件名需要改为小写字母，不能有其他字符，
